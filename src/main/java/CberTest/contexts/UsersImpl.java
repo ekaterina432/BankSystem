@@ -1,9 +1,12 @@
-package CberTest;
+package CberTest.contexts;
+
+import CberTest.contexts.User;
+import CberTest.contexts.Users;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class UsersImpl  implements Users{
+public class UsersImpl  implements Users {
     private List<User> users = new ArrayList<>();
 
     @Override

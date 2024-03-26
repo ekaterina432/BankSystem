@@ -1,4 +1,4 @@
-package CberTest;
+package CberTest.contexts;
 
 public class User {
     public String user;

@@ -1,4 +1,4 @@
-package CberTest;
+package CberTest.contexts;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

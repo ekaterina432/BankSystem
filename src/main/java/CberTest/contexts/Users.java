@@ -1,4 +1,6 @@
-package CberTest;
+package CberTest.contexts;
+
+import CberTest.contexts.User;
 
 import java.util.List;
 
